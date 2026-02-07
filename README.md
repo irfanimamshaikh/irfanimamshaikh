@@ -4,10 +4,10 @@ Hi, I'm **IRFAN SHAIKH**, a passionate DevOps Engineer with a love for cloud com
 
 ---
 
-## 🌐 Connect with Me:
 
-[![LinkedIn](https://www.linkedin.com/in/irfan-shaikh-4581b12a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# 🌐 Connect with Me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-shaikh-4581b12a9)
 
 ---
 
